@@ -1,4 +1,4 @@
-package day1practiceproblems;
+package com.bridgelabz.day1;
 
 import java.util.Scanner;
 
